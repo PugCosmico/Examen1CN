@@ -1,3 +1,4 @@
+#Sebastián Antonio Borjas Espinoza
 import random
 
 # Ejercicio 1: ¿Es un número primo?
